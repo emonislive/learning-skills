@@ -10,40 +10,68 @@
 ## Metadata and Accessibility
 - **Character Encoding**: Specifying UTF-8 using `<meta charset="UTF-8">`.
 - **Viewport Settings**: Using `<meta name="viewport" content="width=device-width, initial-scale=1.0">` for responsive design.
-- **Favicon**: Adding a favicon using `<link>` with `rel="shortcut icon"`.
+- **Favicon**: Adding a favicon using `<link rel="shortcut icon" href="./img/shortcut_icon.png" type="image/x-icon">`.
 
 ## Adding Content
 - **Page Title**: Setting the title with the `<title>` tag.
-- **Headings**: Using `<h1>` for a main heading and applying italics with `<em>`.
+- **Headings**: Using `<h1>` to `<h6>` for hierarchical headings, with italics applied using `<em>`.
 
 ## Containers and Text
 - **Divisions**: Using `<div>` to group related content.
-- **Paragraphs**: Adding a paragraph with the `<p>` tag.
-- **Buttons**: Creating a clickable button using `<button>` with a `type="submit"` attribute.
+- **Paragraphs**: Adding paragraphs with the `<p>` tag.
+- **Line Breaks**: Inserting line breaks with `<br>`.
+- **Text Formatting**:
+  - Bold Text: `<strong>` for emphasis.
+  - Italic Text: `<i>` or `<em>` for styling.
 
 ## Lists
-- **Ordered List**: Creating a numbered list with `<ol>` and `<li>`.
-- **Unordered List**: Creating a bullet-point list with `<ul>` and `<li>`.
-
-## Text Formatting
-- **Bold Text**: Using `<strong>` for bold emphasis.
-- **Inline Text Container**: Using `<span>` for inline content formatting.
+- **Ordered List**: Using `<ol>` and `<li>` for numbered items.
+- **Unordered List**: Using `<ul>` and `<li>` for bullet points.
+- **Description List**: `<dl>` for term descriptions with `<dt>` (term) and `<dd>` (data).
+- **Nested List**: Creating sublists within lists for hierarchical data.
 
 ## Adding Images
-- **Image Tag**: Inserting an image using `<img>` with attributes:
-  - `src`: Source of the image.
+- **Image Tag**: Adding images with `<img>` and attributes:
+  - `src`: Image source URL.
   - `alt`: Alternative text for accessibility.
-  - `width` and `height`: Image dimensions.
+  - `width` and `height`: For resizing.
 
 ## Hyperlinks
-- **Anchor Tag**: Creating a hyperlink with `<a>` and:
-  - `href`: Link URL.
+- **Anchor Tag**: Creating links with `<a>`:
+  - `href`: Destination URL.
   - `target="_blank"`: Opens the link in a new tab.
 
+## Forms
+- **Form Structure**: Creating forms using `<form>` with an action attribute.
+- **Form Elements**:
+  - Text Input: `<input type="text">`.
+  - Email Input: `<input type="email">`.
+  - Password Input: `<input type="password">`.
+  - Date Input: `<input type="date">`.
+  - Dropdowns: `<select>` with `<option>` for multiple choices.
+  - Buttons:
+    - Submit: `<button type="submit">` or `<input type="submit">`.
+    - Reset: `<button type="reset">` or `<input type="reset">`.
+    - Clickable (without submission): `<button type="button">` or `<input type="button">`.
+
 ## Practical Applications
-- **Grouping Content**: Organizing text and buttons within a `<div>`.
-- **Semantic HTML**: Structuring the document with clear and logical tags for better readability.
-- **Dynamic and Interactive Content**: Adding a button for interactivity and linking to external resources like YouTube.
+- **Grouping Content**: Organizing elements using `<div>`.
+- **Semantic HTML**: Structuring content logically for better readability and accessibility.
+- **Dynamic and Interactive Content**: Adding buttons for interactivity.
 
 ## Additional Features
-- **Favicon**: Adding a shortcut icon for the webpage.
+- **Footer**: Using `<footer>` for page footnotes (e.g., `All rights reserved © 2025`).
+- **Nested Lists in Containers**: Combining lists within a `<div>` for complex data organization.
+- **Favorite Song**: Linking to a song on YouTube with an anchor tag.
+
+## Sample Page
+### Title: My Travel Blog
+#### Features:
+- **Headings**: Main heading with italics.
+- **Lists**:
+  - Ordered list of items purchased.
+  - Unordered list of favorite foods.
+- **Image**: Favorite food picture with proper attributes.
+- **Link**: Favorite song on YouTube.
+
+---
