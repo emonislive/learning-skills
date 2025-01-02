@@ -50,5 +50,3 @@ By completing this course, I will gain:
 - Proficiency in frontend and backend web development.
 - Experience with modern tools and frameworks.
 - Skills to build and deploy full-stack web applications.
-
----
