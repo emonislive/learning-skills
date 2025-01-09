@@ -1,7 +1,12 @@
 # What I've Learned: HTML & CSS Practices
 
 This module helped me gain a comprehensive understanding of HTML and CSS, focusing on structuring web pages, styling elements, and using various CSS techniques to create a well-designed, responsive webpage. Below are the key learnings from the tasks:
+### basic.html
+<img src="images/ss1.png" alt="My Image"/>  <br>
 
+### all_task_together.html
+<img src="images/ss2.png" alt="My Image"/>
+<br>
 ## 1. **Basic HTML Structure**
    - **HTML Document Structure:** 
      I learned how to structure a basic HTML document starting with `<!DOCTYPE html>`, followed by the `<html>`, `<head>`, and `<body>` tags. These define the page's structure and organize content into a format that browsers can render.
