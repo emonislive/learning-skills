@@ -7,6 +7,7 @@ This module helped me gain a comprehensive understanding of HTML and CSS, focusi
 ### all_task_together.html
 <img src="images/ss2.png" alt="My Image"/>
 <br>
+
 ## 1. **Basic HTML Structure**
    - **HTML Document Structure:** 
      I learned how to structure a basic HTML document starting with `<!DOCTYPE html>`, followed by the `<html>`, `<head>`, and `<body>` tags. These define the page's structure and organize content into a format that browsers can render.
