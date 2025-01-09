@@ -1,0 +1,58 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+/* ! Task 1 */
+#external-css{
+    border: 10px;
+    margin: 30px 30px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+}
+/* ! Task 2 */
+#head{
+    background-image: url(./images/background-pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+#tits{
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: floralwhite;
+    padding: 0px 150px;
+    border-radius: 100px;
+    background-color: darkblue;
+}
+#p-t2{
+    color: sandybrown;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#li-t2 *{
+    color: floralwhite;
+    border-color: blue;
+    background-color: darkgoldenrod;
+    margin: 4px 50px;
+    padding: 10px 20px;
+}
+.c-t3{
+    background-color: cadetblue;
+    color: aliceblue;
+    border: 10px;
+    border-radius: 50px;
+    padding: 50px;
+    margin: 30px;
+    height: 200px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}

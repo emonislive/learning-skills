@@ -1,0 +1,62 @@
+*{
+    background-color: antiquewhite;
+    color: cadetblue;
+    font-size: 26px;
+}
+#ex-css{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: black;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#head{
+    height: 300px;
+    width: 100%;
+    
+    background-image: url('./images/background-pic.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    text-align: center;
+    color: #f8f8f2;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.para-one, .para-two, .para-three{
+    margin: 30px 20px;
+    padding: 15px 15px;
+    border: 2px solid crimson;
+    box-shadow: 5px  5px 10px crimson;
+    /* width: 50%; */
+    text-align: center;
+}
+
+.para-one{
+    border-top: 30px solid crimson;
+    /* border-radius: 50px; */
+}
+.para-two{
+    /* border-right: 20px solid crimson; */
+    /* border-left: 20px solid crimson; */
+    border-radius: 40px;
+}
+.para-three{
+    border-bottom: 30px solid crimson;
+    /* border-radius: 50px; */
+}
+
+#display-class{
+    display: inline-block;
+    border: 3px dotted crimson;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    color: crimson;
+}
