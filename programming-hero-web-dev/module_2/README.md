@@ -12,7 +12,7 @@ This module helped me gain a comprehensive understanding of HTML and CSS, focusi
    - **HTML Document Structure:** 
      I learned how to structure a basic HTML document starting with `<!DOCTYPE html>`, followed by the `<html>`, `<head>`, and `<body>` tags. These define the page's structure and organize content into a format that browsers can render.
      - The `<head>` contains meta-information (e.g., charset, viewport settings), the title of the page, and links to external files (like CSS).
-     - The `<body>` holds the visible content, such as text, images, and interactive elements.
+     - The `<body>` holds the visible content, such as text, images, and interactive elements .
    
    - **Common HTML Tags:** 
      I became familiar with a variety of HTML tags that help structure content, such as:
