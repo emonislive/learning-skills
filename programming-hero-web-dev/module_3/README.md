@@ -3,7 +3,7 @@
 Mainly learning what is git and github and how to use it.
 
 ### Clone the repository
-cd ~
+cd ~ <br>
 git clone https://github.com/emonislive/learning-skills.git
 
 ### Navigate to the repository
