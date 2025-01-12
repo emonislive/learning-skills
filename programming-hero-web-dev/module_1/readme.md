@@ -1,7 +1,7 @@
 # What I Have Learned
 
 ## HTML Basics
-- **Doctype Declaration**: `<!DOCTYPE html>` to specify HTML5.
+- **Doctype Declaration**: `<!DOCTYPE html>` to specify HTML5 
 - **HTML Structure**:
   - `<html>`: Root element of the page.
   - `<head>`: Contains metadata like charset, viewport settings, and title.
