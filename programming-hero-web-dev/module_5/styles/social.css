@@ -1,0 +1,74 @@
+*{
+    font-family: "Work Sans";
+}
+.div-1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-1{
+    display: flex;
+    gap: 40px;
+    margin-top: 2.5%;
+    margin-right: 40px;
+}
+.div-3 > a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+.div-3{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border: none;
+    background-color: #faebd7;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px black;
+}
+.div-3:hover{
+    background-color: #343231;
+}
+.div-3 > a:hover{
+    color: #faebd7;
+}
+#title-1{
+    font-size: 48px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+#title-1 > a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+#title-11{
+    font-size: 40px;
+}
+#title-12{
+    font-size: 24px;
+    font-weight: 400;
+    color: gray;
+    margin: 0px 0px;
+    margin-bottom: 20px;
+}
+#title-13{
+    font-size: 32px;
+    color: #343231;
+    font-weight: 600;
+    margin: 20px 0px ;
+    padding: 0px 540px;
+}
+.div-5 > img{
+    margin-top: 20px;
+}
