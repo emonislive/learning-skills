@@ -53,5 +53,8 @@ By completing this course, I will gain:
 
 
 ### All The Projects I Have Done So Far [Live Server]
-- [Module 5 - Good Food Restuarant](https://sifatislive.github.io/module-5-live-server/index.html)  [[Source Code](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_5)]
-- [Assignment 1 - Bangladesh 2.0](https://emonislive.github.io/assignment-1/) [[Source Code](https://github.com/emonislive/assignment-1)]
+| Module               | Project Name          | Live Server Link                                                                 | Source Code                                                                                  | Assignment |
+|----------------------|-----------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---|
+| Module 5             | Good Food Restaurant  | [Live Server](https://sifatislive.github.io/module-5-live-server/index.html)     | [Link](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_5) | - |
+| Module 6             | Developer Portfolio   | [Live Server](https://sifatislive.github.io/module-6-live-server/)               | [Link](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_6) | - |
+| Module 7             | Bangladesh 2.0        | [Live Server](https://emonislive.github.io/assignment-1/)                        | [Link](https://github.com/emonislive/assignment-1)                                      | 1 |
