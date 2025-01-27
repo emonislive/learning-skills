@@ -1,2 +1,4 @@
 - Contest 1 - Data types, Variables & Operators: https://vjudge.net/contest/684650
   - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-1%3A%20Data%20types%2C%20Variables%20%26%20Operators)] (20 Problems)
+- Contest 2 - Conditional Statement: https://vjudge.net/contest/688748
+  - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-2%3A%20Conditional%20Statement)] (19 Problems)
