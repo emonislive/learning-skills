@@ -26,7 +26,7 @@ b = complex(a)
 print(b)
 
 # ! int     can't convert complex 
-# ! float   can't convert to complex
+# ! float   can't convert complex
 # ! complex can convert every type
 # ! bool    can convert every type
 # ! str     can convert every type
