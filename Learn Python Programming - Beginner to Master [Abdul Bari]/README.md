@@ -1,3 +1,6 @@
+# Course Link
+ - [Udemy Site Link](https://www.udemy.com/course/learn-python-with-abdul-bari/?couponCode=2021PM25)
+   
 # Course Overview
 
 1. **Introduction to Python**  
