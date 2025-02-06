@@ -5,7 +5,7 @@
 # ? EXAMPLE 1
 a = 10
 b = 10
-print(id(a))
+print(id(a)) # id = the address of the value [similar as &x in C++]
 print(id(b))
 
 print(a is b)
