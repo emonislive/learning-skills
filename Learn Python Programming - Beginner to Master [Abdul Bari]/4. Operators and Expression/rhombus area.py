@@ -1,8 +1,8 @@
 # ! Rhombus area
 
-height = input("Enter the height: ")
-base = input("Enter the base: ")
-area = input("Enter the area: ")
+height = float(input("Enter the height: "))
+a = float(input("Enter side a: "))
+b = float(input("Enter side b: "))
 
-rArea = ((float(area) + float(base)) * float(height)) / 2
+rArea = 1/2 * (a + b) * height
 print("Rhombus area:",rArea)
