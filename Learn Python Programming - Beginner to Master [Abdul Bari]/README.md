@@ -1,4 +1,5 @@
 # Course Link
+ - Course Name: Learn Python Programming - Beginner to Master by Abdul Bari
  - [Udemy Site Link](https://www.udemy.com/course/learn-python-with-abdul-bari/?couponCode=2021PM25)
     
 # Course Overview
