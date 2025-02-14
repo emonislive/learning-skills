@@ -3,4 +3,4 @@
 - Contest 2 - Conditional Statement: https://vjudge.net/contest/688748
   - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-2%3A%20Conditional%20Statement)] (19/19 Problems)
 - Contest 3 - Loops: https://vjudge.net/contest/690494
-  - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-3%3A%20Loops)] (27/30 Problems)
+  - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-3%3A%20Loops)] (28/30 Problems)
