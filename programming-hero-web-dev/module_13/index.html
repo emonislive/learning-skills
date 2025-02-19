@@ -17,12 +17,12 @@
 
     <header class="pb-20 h-full md:h-[715px] bg-orange-50">
       <!-- ? Navigation For Mobile Devices (Responsive) -->
-      <nav class="flex px-5 py-7 justify-between md:hidden">
+      <nav class="flex py-7 justify-between md:hidden">
         <div>
-          <img src="./img/icons/logo.png" alt="company logo" class="h-[40%]" />
+          <img src="./img/icons/logo.png" alt="company logo" class="h-[70%]" />
         </div>
         <div>
-          <img src="./img/icons/menu bar.png" alt="" />
+          <img src="./img/icons/menu bar.png" alt="" class="h-[70%]" />
         </div>
       </nav>
       <!-- ?------------------------------------- -->
@@ -51,9 +51,9 @@
         </ul>
       </nav>
 
-      <div class="px-5 mb-5 md:flex md:px-36 justify-between items-center">
+      <div class="mb-5 md:flex md:px-36 justify-between items-center">
         <div>
-          <h1 class="font-bold text-7xl">
+          <h1 class="font-bold text-4xl md:text-7xl">
             <span class="text-orange-400 inline-block mb-4">
               BE THE PENGUINS
             </span>
@@ -84,11 +84,13 @@
 
     <!-- ! Woman Jacket section -->
 
-    <section class="px-5 md:px-36 mt-12 mb-24">
-      <h1 class="mt-[100px] md:mt-0 mb-7 font-bold text-5xl text-indigo-950">
+    <section class="md:px-36 mt-12 mb-24">
+      <h1
+        class="mt-[100px] md:mt-0 mb-7 font-bold text-3xl md:text-5xl text-indigo-950"
+      >
         WOMAN JACKET
       </h1>
-      <div class="mb-5 md:flex justify-between space-x-5">
+      <div class="mb-5 md:flex justify-between md:space-x-5">
         <div class="shadow-2xl p-5 rounded-2xl md:w-[450px]">
           <div class="bg-slate-100 rounded-2xl p-5">
             <img
@@ -176,9 +178,11 @@
 
     <!-- ! Man Jacket section -->
 
-    <section class="px-5 md:px-36 mt-12 mb-24">
-      <h1 class="mb-7 font-bold text-5xl text-indigo-950">MAN JACKET</h1>
-      <div class="mb-5 md:flex justify-between space-x-5">
+    <section class="md:px-36 mt-12 mb-24">
+      <h1 class="mb-7 font-bold text-3xl md:text-5xl text-indigo-950">
+        MAN JACKET
+      </h1>
+      <div class="mb-5 md:flex justify-between md:space-x-5">
         <div class="shadow-2xl p-5 rounded-2xl md:w-[450px]">
           <div class="bg-slate-100 rounded-2xl p-5">
             <img
@@ -267,12 +271,17 @@
 
     <!-- ! Footer Section -->
 
-    <section class="md:flex items-center px-5 md:px-36 justify-between mb-52">
+    <section class="md:flex items-center md:px-36 justify-between mb-52">
+      <!-- ? For Mobile Version -->
       <div class="visible md:hidden mb-10">
-        <img src="./img/images/shopping.png" alt="" class="h-[400px] w-fit" />
+        <img src="./img/images/shopping.png" alt="" class="" />
       </div>
+      <!-- ?------------------- -->
+
       <div>
-        <div class="flex items-center rounded-2xl shadow-lg p-5 m-5 space-x-9">
+        <div
+          class="flex items-center rounded-2xl shadow-lg p-5 mb-5 md:m-5 space-x-9"
+        >
           <div>
             <img src="./img/icons/house.png" alt="" class="h-[82px] w-[78px]" />
           </div>
@@ -287,7 +296,9 @@
           </div>
         </div>
 
-        <div class="flex items-center rounded-2xl shadow-lg p-5 m-5 space-x-9">
+        <div
+          class="flex items-center rounded-2xl shadow-lg p-5 mb-5 md:m-5 space-x-9"
+        >
           <div>
             <img src="./img/icons/box.png" alt="" class="h-[82px] w-[78px]" />
           </div>
@@ -299,7 +310,9 @@
           </div>
         </div>
 
-        <div class="flex items-center rounded-2xl shadow-lg p-5 m-5 space-x-9">
+        <div
+          class="flex items-center rounded-2xl shadow-lg p-5 md:m-5 space-x-9"
+        >
           <div>
             <img
               src="./img/icons/question.png"
@@ -319,7 +332,11 @@
         </div>
       </div>
       <div class="hidden md:block">
-        <img src="./img/images/shopping.png" alt="" class="h-[400px] w-fit" />
+        <img
+          src="./img/images/shopping.png"
+          alt=""
+          class="md:h-[400px] w-fit"
+        />
       </div>
     </section>
   </body>
