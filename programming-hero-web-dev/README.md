@@ -58,5 +58,6 @@ By completing this course, I will gain:
 | Module 5             | Good Food Restaurant  | [Live Server](https://sifatislive.github.io/module-5-live-server/index.html)     | [Link](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_5) | - | - |
 | Module 6             | Developer Portfolio   | [Live Server](https://sifatislive.github.io/module-6-live-server/)               | [Link](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_6) | - | - |
 | Module 7             | Bangladesh 2.0        | [Live Server](https://emonislive.github.io/assignment-1/)                        | [Link](https://github.com/emonislive/assignment-1)                                      | 1 | - |
-| Module 12            | Kids Education        | [Live Server](https://emonislive.github.io/assignment-2/)                        | [Link](https://github.com/emonislive/assignment-2)                                      | 2 | Responsive Website with Mobile Device Ratio |
+| Module 12            | Kids Education        | [Live Server](https://emonislive.github.io/assignment-2/)                        | [Link](https://github.com/emonislive/assignment-2)                                      | 2 | Responsive Website |
+| Module 13            | Penguin Fashion       | [Live Server](https://sifatislive.github.io/module-13-live-server/) | [Link](https://github.com/emonislive/learning-skills/tree/main/programming-hero-web-dev/module_13) | - | Tailwind CSS with Responsive Website |
 
