@@ -6,3 +6,7 @@
   - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-3%3A%20Loops)] (28/30 Problems)
 - Contest 4 - Array: https://vjudge.net/contest/694781
   - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-4%3A%20Array)] (14/20 Problems)
+- Contest 5 - Multi Dimentional Array : https://vjudge.net/contest/696137
+  - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-5%3A%20Multi%20Dimentional%20Array)] (05/19 Problems)
+- Contest 6 - String : https://vjudge.net/contest/699182
+  - [[Solve Link](https://github.com/emonislive/learning-skills/tree/main/CPS%20Academy%20-%20Basic%20to%20Intermediate%20Level%20Competitive%20Programming/Module%201%20-%20Basic%20Programming%20%26%20Problem%20Solving%20Techniques/Contest-6%3A%20String)] (/31 Problems)
